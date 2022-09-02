@@ -14,3 +14,9 @@
   - 면접이 끝나면 피드백을 준다.
 - 면접 분위기는 최대한 편안하게 한다.
 
+## 조조그린과 멤버들
+|토닉|알파|더즈|조조그린|정|
+|:--:|:--:|:--:|:----:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/59171113?v=4" alt="tonic" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/50986686?v=4" alt="alpha" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/78652144?v=4" alt="does" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/82805588?v=4" alt="jojo_green" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/73531614?v=4" alt="jeong" width="100" height="100">|
+|[tonic523](https://github.com/tonic523)|[bcc0830](https://github.com/bcc0830)|[ldk980130](https://github.com/ldk980130)|[jojogreen91](https://github.com/jojogreen91)|[bugoverdoes](https://github.com/bugoverdose)|
+
